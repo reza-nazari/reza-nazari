@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with JS,Vue,React
 - 💬 Ask me about JS
 - 📫 How to reach me: mrezaa.nazarii@gmail.com
-- ⚡ Fun fact: First rule: if your code isrunning, dont change it! :))
 
 <hr />
 
