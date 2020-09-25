@@ -8,5 +8,5 @@
 - 📫 How to reach me: mrezaa.nazarii@gmail.com
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-nazari&hide=html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-nazari&hide=html&theme=dracula)](https://github.com/reza-nazari/github-readme-stats)
 
