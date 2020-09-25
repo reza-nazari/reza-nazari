@@ -9,4 +9,4 @@
 <hr />
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reza-nazari&hide=html&theme=dracula)](https://github.com/reza-nazari/github-readme-stats)
