@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 
 - 🤔 I’m looking for help with JS,Vue,React
 - 💬 Ask me about JS
