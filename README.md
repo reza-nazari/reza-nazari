@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter
 
-- 🤔 I’m looking for help with JS,Vue,React
+
+- 🤔 I’m looking for help with JS,React, Angular, Vue
 - 💬 Ask me about JS
 - 📫 How to reach me: mrezaa.nazarii@gmail.com
 <hr />
